@@ -1,4 +1,21 @@
-# Desafio Git/Github
-## Repositório criado para responder Desafio de Projeto ( Módulo 1) sobre git e github 
+# Desafio de projeto 1: Git/GitHub
+
+## Criação de Repositório no Git e GitHub
+
+## Conteúdo apresentado no Módulo I :
+
+- Introdução à Programação e Pensamenos Computacional: programando no Portugol; 
+
+- Introdução ao Git e ao GitHub - download e comandos git e github;
+
+- Atividade Prática: criação de repositório no Git e no GitHub.
+
+## Exercício prático no Portugol Web Studio:
+
+[Algoritmo para média escolar]([Portugol Webstudio](https://portugol-webstudio.cubos.io/ide#share=69186))
+
+
+
+
 
 
