@@ -12,10 +12,6 @@
 
 ## Exercício prático no Portugol Web Studio:
 
-[Algoritmo para média escolar]([Portugol Webstudio](https://portugol-webstudio.cubos.io/ide#share=69186))
-
-
-
-
+[Algoritmo para média escolar](Portugol Webstudio](https://portugol-webstudio.cubos.io/ide#share=69186)
 
 
