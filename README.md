@@ -10,8 +10,8 @@
 
 - Atividade Prática: criação de repositório no Git e no GitHub.
 
-## Exercício prático no Portugol Web Studio:
 
-[Algoritmo para média escolar](https://portugol-webstudio.cubos.io/ide#share=69194)
+
+Exercício prático no Portugol Web Studio: [Algoritmo para média escolar](https://portugol-webstudio.cubos.io/ide#share=69194)
 
 
