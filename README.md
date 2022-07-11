@@ -2,6 +2,8 @@
 
 ## Criação de Repositório no Git e GitHub
 
+Repositório criado no GitHub para guardar as notas de aulas e atividades realizadas Bootcamp SantanderCodeGirls realizado na DIO. Os arquivos contidos na pasta são de são de autoria própria, caso contrário haverá notificação informando a origem do arquivo.
+
 ## Conteúdo apresentado no Módulo I :
 
 - Introdução à Programação e Pensamenos Computacional: programando no Portugol; 
@@ -10,8 +12,4 @@
 
 - Atividade Prática: criação de repositório no Git e no GitHub.
 
-
-
 Exercício prático no Portugol Web Studio: [Algoritmo para média escolar](https://portugol-webstudio.cubos.io/ide#share=69194)
-
-
